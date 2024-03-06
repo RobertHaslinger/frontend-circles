@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "deeplLanguageCodes": {
+      "de-AT": "de-AT",
+      "de-DE": "de",
+      "de-CH": "de",
+      "ar-BH": "ar-BH",
+      "ar-DZ": "ar",
+      "ar-EG": "ar"
+    }
+  }
+}
